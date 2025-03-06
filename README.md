@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+j1zzu;Beginner+Software+Engineer;Frontend+Developer;I+strive+to+become+a+full-stack+developer👨‍💻&font=Odibee+Sans&center=true&width=700&height=45&color=0EADC6&vCenter=true&pause=800&size=30" />
+</p>
 
 <!--
 **j1zzu/j1zzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
