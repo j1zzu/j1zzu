@@ -17,7 +17,7 @@
 <ul >
   <li>🔭 I’m currently working with websites</li>
   <li>🌱 I’m currently learning C++, HTML/CSS</li>
-  <li>📫 How to reach me: https://t.me/j1zzu</li>
+  <li>📫 How to contact me: https://t.me/j1zzu</li>
 </ul>
 
 
